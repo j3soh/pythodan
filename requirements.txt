@@ -1,5 +1,5 @@
 shodan==1.23.0
-requests==2.24.0
+requests==2.31.0
 netaddr==0.7.20
 colorama==0.4.3
 termcolor==1.1.0
